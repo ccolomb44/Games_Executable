@@ -1,0 +1,15 @@
+SimpleShooter/Binaries/Win64/D3D12/D3D12Core.dll	2023-12-15T11:14:56.266Z
+SimpleShooter/Binaries/Win64/OpenImageDenoise.dll	2023-12-15T11:18:55.919Z
+SimpleShooter/Binaries/Win64/SimpleShooter-Win64-Shipping.exe	2024-01-25T09:43:21.020Z
+SimpleShooter/Binaries/Win64/tbb.dll	2023-12-15T11:14:51.409Z
+SimpleShooter/Binaries/Win64/tbb12.dll	2023-12-15T11:18:49.254Z
+SimpleShooter/Binaries/Win64/tbbmalloc.dll	2023-12-15T11:14:51.409Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-12-15T11:14:30.829Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2023-12-15T11:14:52.635Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-12-15T11:14:52.652Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-12-15T11:14:52.686Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-12-15T11:14:56.218Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-12-15T11:14:56.219Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-12-15T11:14:56.333Z
+Engine/Content/Slate/Cursor/invisible.cur	2023-10-02T15:06:46.295Z
+SimpleShooter.exe	2024-01-25T10:03:47.988Z
