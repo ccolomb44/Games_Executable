@@ -27,3 +27,9 @@ Vidéo du projet : https://youtu.be/0rW5UcNIID0
 Le quatrième jeu est SimpleShooter. Ce projet est développé en C++ et m'a permis de coder des IA plus avancées (détection de si le joueur rentre en ligne de vue, le poursuivre et retourner
 à sa position de base au bout d'un certain temps) et d'expérimenter les LineTraces pour la création des armes et de la fonctionnalité pour tirer.
 Vidéo du projet : https://youtu.be/O-3o8kmSybk
+
+Mon cinquième jeu réalisé est un jeu en vue à la troisième personne d'aventure/combat. Ce projet est développé en C++ et m'a fait avancer sur beaucoup de points. J'ai pu travailler sur les animations 
+(attaque, reactions aux coups, morts), gérer mes ennemis (patrouille, combat, poursuite du joueur), créer des collectables (potions, âmes, trésors), créer plusieurs ennemis avec des animations propres,
+créer différents types d'armes (armes à une main et à deux mains et adapter les animations en fonction), utiliser du "Motion Warping" pour que les ennemis soient plus difficiles à tuer...
+Le jeu vise à être améliorer : pouvoir dépenser les âmes collectées ainsi que l'argent, créer mon propre environnement, ajouter du son ambiant...
+Vidéo du projet : https://youtu.be/D_gD-8o5uQw
